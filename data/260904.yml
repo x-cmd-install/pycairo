@@ -7,7 +7,7 @@ about:
   head: 1719cc9
   archived: false
   latestVersion: v1.29.1
-  collectedAt: 2026-09-04T19:22:39Z
+  collectedAt: 2026-09-04T21:11:42Z
 timeline:
   created: 2017-04-05
   lastCommit: 2026-08-07
@@ -83,6 +83,69 @@ total:
   openIssue: 38
   commit: 968
 ---
+path: /home/runner/.x-repo/github.com/pygobject/pycairo
+collectedAt: 2026-09-04T21:11:43Z
+loc:
+  C:
+    code: 8770
+    comments: 737
+    blanks: 1503
+    files: 19
+  Python:
+    code: 3729
+    comments: 99
+    blanks: 1273
+    files: 57
+  ReStructuredText:
+    code: 1412
+    comments: 0
+    blanks: 579
+    files: 33
+  CHeader:
+    code: 498
+    comments: 94
+    blanks: 133
+    files: 4
+  Jupyter:
+    code: 486
+    comments: 17
+    blanks: 92
+    files: 1
+  Meson:
+    code: 225
+    comments: 4
+    blanks: 32
+    files: 4
+  Toml:
+    code: 71
+    comments: 0
+    blanks: 11
+    files: 1
+  Css:
+    code: 31
+    comments: 0
+    blanks: 9
+    files: 1
+  Autoconf:
+    code: 23
+    comments: 0
+    blanks: 0
+    files: 2
+  Makefile:
+    code: 9
+    comments: 0
+    blanks: 4
+    files: 1
+  Text:
+    code: 0
+    comments: 2
+    blanks: 0
+    files: 1
+total:
+  code: 15740
+  comments: 970
+  blanks: 3728
+  files: 124
 ---
 date: "2026-08-24"
 repo:
