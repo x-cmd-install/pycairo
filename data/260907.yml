@@ -5,7 +5,7 @@ about:
   head: 1719cc9
   archived: false
   latestVersion: "v1.29.1"
-  collectedAt: 2026-09-07T05:16:34Z
+  collectedAt: 2026-09-07T19:24:36Z
 timeline:
   created: 2017-04-05
   lastCommit: 2026-08-07
@@ -82,7 +82,7 @@ total:
   commit: 968
 ---
 path: /home/runner/.x-repo/github.com/pygobject/pycairo
-collectedAt: 2026-09-07T05:16:36Z
+collectedAt: 2026-09-07T19:24:36Z
 loc:
   C:
     code: 8770
@@ -245,7 +245,7 @@ checks:
       - 'Warn: 0 commits out of 24 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:16:37+00:00
+  collectedAt: 2026-09-07T19:24:37+00:00
   platform:
     darwin/arm64:
       name:  null
