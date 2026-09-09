@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.29.1"
   latestRelease: "v1.29.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:19:36Z
+  collectedAt: 2026-09-09T19:23:16Z
 timeline:
   created: 2017-04-05
   lastCommit: 2026-08-07
@@ -86,7 +86,7 @@ total:
   commit: 968
 ---
 path: /home/runner/.x-repo/github.com/pygobject/pycairo
-collectedAt: 2026-09-09T05:19:37Z
+collectedAt: 2026-09-09T19:23:17Z
 loc:
   C:
     code: 8770
