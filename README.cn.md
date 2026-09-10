@@ -4,7 +4,7 @@
 
 Python bindings for cairo
 
-![pycairo](https://repo.x-cmd.io/pycairo.svg)
+![pycairo](https://repo.x-cmd.io/pycairo.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,14 @@ x install pycairo
 - **最新版本**: `v1.29.1` (2026-08-07)
 - **最近提交**: 2026-08-07
 - **Release 含资产**: 3 个
-- **发布时间**: 2026-08-07T08:43:35Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [pycairo-1.29.1.tar.gz](https://github.com/pygobject/pycairo/releases/download/v1.29.1/pycairo-1.29.1.tar.gz) | 650.7 KiB | `native/unknown` |
+| [pycairo-1.29.1.tar.gz.sha256](https://github.com/pygobject/pycairo/releases/download/v1.29.1/pycairo-1.29.1.tar.gz.sha256) | 88 B | `other` |
+| [pycairo-1.29.1.tar.gz.sig](https://github.com/pygobject/pycairo/releases/download/v1.29.1/pycairo-1.29.1.tar.gz.sig) | 566 B | `other` |
 
 ## 流行度
 
@@ -72,4 +79,4 @@ pycairo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:20:36Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:55:48Z._

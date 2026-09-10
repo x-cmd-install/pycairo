@@ -23,7 +23,14 @@ x install pycairo
 - **Latest**: `v1.29.1` (2026-08-07)
 - **Last commit**: 2026-08-07
 - **Assets in release**: 3
-- **Published**: 2026-08-07T08:43:35Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [pycairo-1.29.1.tar.gz](https://github.com/pygobject/pycairo/releases/download/v1.29.1/pycairo-1.29.1.tar.gz) | 650.7 KiB | `native/unknown` |
+| [pycairo-1.29.1.tar.gz.sha256](https://github.com/pygobject/pycairo/releases/download/v1.29.1/pycairo-1.29.1.tar.gz.sha256) | 88 B | `other` |
+| [pycairo-1.29.1.tar.gz.sig](https://github.com/pygobject/pycairo/releases/download/v1.29.1/pycairo-1.29.1.tar.gz.sig) | 566 B | `other` |
 
 ## Popularity
 
@@ -68,8 +75,8 @@ Lowest-scoring checks:
 Install metadata for pycairo lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pycairo` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/pycairo.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/pycairo.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:20:36Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:55:47Z._
