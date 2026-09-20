@@ -4,7 +4,7 @@
 
 Python bindings for cairo
 
-![pycairo](https://repo.x-cmd.io/pycairo.svg)
+[![x-cmd/install — pycairo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pycairo.svg)](https://x-cmd.com/install/pycairo)
 
 ## Install
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 1 | 6 | 0 | 2 | 0 | 10 |
-| 90d | 2026-06-20 | 1 | 6 | 0 | 3 | 0 | 10 |
-| last180d | 2026-03-22 | 1 | 7 | 0 | 4 | 0 | 13 |
-| 360d | 2025-09-23 | 2 | 15 | 0 | 7 | 0 | 40 |
-| last720d | 2024-09-28 | 3 | 43 | 1 | 10 | 5 | 96 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 1 | 6 | 0 | 2 | 0 | 10 |
+| 90d | 2026-06-22 | 1 | 6 | 0 | 3 | 0 | 10 |
+| last180d | 2026-03-24 | 1 | 7 | 0 | 4 | 0 | 13 |
+| 360d | 2025-09-25 | 2 | 15 | 0 | 6 | 0 | 40 |
+| last720d | 2024-09-30 | 3 | 43 | 1 | 10 | 5 | 96 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for pycairo lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:26:14Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:29:08Z._
