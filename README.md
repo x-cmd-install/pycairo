@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.29.1` (2026-08-07)
-- **Last commit**: 2026-08-07
+- **Last commit**: 2026-09-21
 - **Assets in release**: 3
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 217 · **Open PRs**: 1 · **Closed issues**: 173 · **Open issues**: 38 · **Commits**: 968
+- **Releases**: 65 · **Merged PRs**: 219 · **Open PRs**: 1 · **Closed issues**: 173 · **Open issues**: 38 · **Commits**: 970
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 1 | 6 | 0 | 2 | 0 | 10 |
-| 90d | 2026-06-23 | 1 | 6 | 0 | 3 | 0 | 10 |
-| last180d | 2026-03-25 | 1 | 7 | 0 | 4 | 0 | 13 |
-| 360d | 2025-09-26 | 2 | 15 | 0 | 6 | 0 | 40 |
-| last720d | 2024-10-01 | 3 | 43 | 1 | 10 | 5 | 96 |
+| 30d | 2026-08-23 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-24 | 1 | 8 | 0 | 2 | 0 | 12 |
+| 90d | 2026-06-24 | 1 | 8 | 0 | 3 | 0 | 12 |
+| last180d | 2026-03-26 | 1 | 9 | 0 | 4 | 0 | 15 |
+| 360d | 2025-09-27 | 2 | 17 | 0 | 6 | 0 | 42 |
+| last720d | 2024-10-02 | 3 | 45 | 1 | 10 | 5 | 98 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for pycairo lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:37:26Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:37:23Z._
