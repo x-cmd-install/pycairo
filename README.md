@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.29.1` (2026-08-07)
-- **Last commit**: 2026-09-21
+- **Latest**: `v1.29.2` (2026-10-04)
+- **Last commit**: 2026-10-04
 - **Assets in release**: 3
 
 ## Popularity
@@ -52,26 +52,26 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 219 · **Open PRs**: 1 · **Closed issues**: 173 · **Open issues**: 38 · **Commits**: 970
+- **Releases**: 66 · **Merged PRs**: 219 · **Open PRs**: 1 · **Closed issues**: 173 · **Open issues**: 38 · **Commits**: 972
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-08-05 | 1 | 7 | 0 | 0 | 0 | 2 |
-| 90d | 2026-07-06 | 1 | 8 | 0 | 2 | 0 | 12 |
-| last180d | 2026-04-07 | 1 | 9 | 0 | 4 | 0 | 15 |
-| 360d | 2025-10-09 | 2 | 17 | 0 | 6 | 0 | 42 |
-| last720d | 2024-10-14 | 3 | 45 | 1 | 10 | 5 | 98 |
+| 30d | 2026-09-05 | 1 | 2 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-06 | 2 | 4 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-07 | 2 | 8 | 0 | 2 | 0 | 14 |
+| last180d | 2026-04-08 | 2 | 9 | 0 | 4 | 0 | 17 |
+| 360d | 2025-10-10 | 3 | 17 | 0 | 6 | 0 | 44 |
+| last720d | 2024-10-15 | 4 | 45 | 1 | 10 | 5 | 100 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [pycairo-1.29.1.tar.gz](https://github.com/pygobject/pycairo/releases/download/v1.29.1/pycairo-1.29.1.tar.gz) | 650.7 KiB | `native/unknown` |
-| [pycairo-1.29.1.tar.gz.sha256](https://github.com/pygobject/pycairo/releases/download/v1.29.1/pycairo-1.29.1.tar.gz.sha256) | 88 B | `other` |
-| [pycairo-1.29.1.tar.gz.sig](https://github.com/pygobject/pycairo/releases/download/v1.29.1/pycairo-1.29.1.tar.gz.sig) | 566 B | `other` |
+| [pycairo-1.29.2.tar.gz](https://github.com/pygobject/pycairo/releases/download/v1.29.2/pycairo-1.29.2.tar.gz) | 650.7 KiB | `native/unknown` |
+| [pycairo-1.29.2.tar.gz.sha256](https://github.com/pygobject/pycairo/releases/download/v1.29.2/pycairo-1.29.2.tar.gz.sha256) | 88 B | `other` |
+| [pycairo-1.29.2.tar.gz.sig](https://github.com/pygobject/pycairo/releases/download/v1.29.2/pycairo-1.29.2.tar.gz.sig) | 566 B | `other` |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for pycairo lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:21:40Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:08:10Z._

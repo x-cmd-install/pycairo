@@ -42,8 +42,8 @@ x install pycairo
 
 ## 发布
 
-- **最新版本**: `v1.29.1` (2026-08-07)
-- **最近提交**: 2026-09-21
+- **最新版本**: `v1.29.2` (2026-10-04)
+- **最近提交**: 2026-10-04
 - **Release 含资产**: 3 个
 
 ## 流行度
@@ -52,26 +52,26 @@ x install pycairo
 
 ## 累计统计
 
-- **发布数**: 65 · **已合并 PR**: 219 · **开放 PR**: 1 · **已关闭 issue**: 173 · **开放 issue**: 38 · **提交数**: 970
+- **发布数**: 66 · **已合并 PR**: 219 · **开放 PR**: 1 · **已关闭 issue**: 173 · **开放 issue**: 38 · **提交数**: 972
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-08-05 | 1 | 7 | 0 | 0 | 0 | 2 |
-| 90d | 2026-07-06 | 1 | 8 | 0 | 2 | 0 | 12 |
-| last180d | 2026-04-07 | 1 | 9 | 0 | 4 | 0 | 15 |
-| 360d | 2025-10-09 | 2 | 17 | 0 | 6 | 0 | 42 |
-| last720d | 2024-10-14 | 3 | 45 | 1 | 10 | 5 | 98 |
+| 30d | 2026-09-05 | 1 | 2 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-06 | 2 | 4 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-07 | 2 | 8 | 0 | 2 | 0 | 14 |
+| last180d | 2026-04-08 | 2 | 9 | 0 | 4 | 0 | 17 |
+| 360d | 2025-10-10 | 3 | 17 | 0 | 6 | 0 | 44 |
+| last720d | 2024-10-15 | 4 | 45 | 1 | 10 | 5 | 100 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [pycairo-1.29.1.tar.gz](https://github.com/pygobject/pycairo/releases/download/v1.29.1/pycairo-1.29.1.tar.gz) | 650.7 KiB | `native/unknown` |
-| [pycairo-1.29.1.tar.gz.sha256](https://github.com/pygobject/pycairo/releases/download/v1.29.1/pycairo-1.29.1.tar.gz.sha256) | 88 B | `other` |
-| [pycairo-1.29.1.tar.gz.sig](https://github.com/pygobject/pycairo/releases/download/v1.29.1/pycairo-1.29.1.tar.gz.sig) | 566 B | `other` |
+| [pycairo-1.29.2.tar.gz](https://github.com/pygobject/pycairo/releases/download/v1.29.2/pycairo-1.29.2.tar.gz) | 650.7 KiB | `native/unknown` |
+| [pycairo-1.29.2.tar.gz.sha256](https://github.com/pygobject/pycairo/releases/download/v1.29.2/pycairo-1.29.2.tar.gz.sha256) | 88 B | `other` |
+| [pycairo-1.29.2.tar.gz.sig](https://github.com/pygobject/pycairo/releases/download/v1.29.2/pycairo-1.29.2.tar.gz.sig) | 566 B | `other` |
 
 ## 改进这些数据
 
@@ -82,4 +82,4 @@ pycairo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261004.yml` · 2026-10-04T06:21:41Z._
+_数据快照: `data/card/261005.yml` · 2026-10-05T06:08:10Z._
