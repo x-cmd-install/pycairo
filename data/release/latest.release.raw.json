@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 666308,
       "digest": "sha256:3e69fff74fe64f5ba2dfa31f67c6bdf26413342574047437d2ac520d35e9a489",
-      "download_count": 2801,
+      "download_count": 3307,
       "created_at": "2026-10-04T19:10:12Z",
       "updated_at": "2026-10-04T19:10:13Z",
       "browser_download_url": "https://github.com/pygobject/pycairo/releases/download/v1.29.2/pycairo-1.29.2.tar.gz"
