@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 666308,
       "digest": "sha256:3e69fff74fe64f5ba2dfa31f67c6bdf26413342574047437d2ac520d35e9a489",
-      "download_count": 5168,
+      "download_count": 5461,
       "created_at": "2026-10-04T19:10:12Z",
       "updated_at": "2026-10-04T19:10:13Z",
       "browser_download_url": "https://github.com/pygobject/pycairo/releases/download/v1.29.2/pycairo-1.29.2.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 88,
       "digest": "sha256:0f9cf0f853520534105401249ebcea66a4683d771b5d98389fe4dff5409fb6a9",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-04T19:10:13Z",
       "updated_at": "2026-10-04T19:10:14Z",
       "browser_download_url": "https://github.com/pygobject/pycairo/releases/download/v1.29.2/pycairo-1.29.2.tar.gz.sha256"
