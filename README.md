@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 699 · **Forks**: 89 · **Open issues**: 211 · **Contributors**: 30
+- **Stars**: 700 · **Forks**: 89 · **Open issues**: 211 · **Contributors**: 30
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 1 | 0 | 0 | 0 | 3 |
-| last60d | 2026-08-24 | 1 | 3 | 0 | 0 | 0 | 5 |
-| 90d | 2026-07-25 | 2 | 9 | 0 | 2 | 0 | 15 |
-| last180d | 2026-04-26 | 2 | 10 | 0 | 4 | 0 | 18 |
-| 360d | 2025-10-28 | 3 | 18 | 0 | 5 | 0 | 45 |
-| last720d | 2024-11-02 | 4 | 46 | 1 | 10 | 5 | 101 |
+| 30d | 2026-09-24 | 1 | 1 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-25 | 1 | 3 | 0 | 0 | 0 | 5 |
+| 90d | 2026-07-26 | 2 | 9 | 0 | 2 | 0 | 15 |
+| last180d | 2026-04-27 | 2 | 10 | 0 | 4 | 0 | 18 |
+| 360d | 2025-10-29 | 3 | 18 | 0 | 5 | 0 | 45 |
+| last720d | 2024-11-03 | 4 | 46 | 1 | 10 | 5 | 101 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for pycairo lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:22:17Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:05:24Z._
