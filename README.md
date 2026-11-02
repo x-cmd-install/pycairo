@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 1 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-02 | 1 | 3 | 0 | 0 | 0 | 5 |
-| 90d | 2026-08-03 | 2 | 9 | 0 | 0 | 0 | 15 |
-| last180d | 2026-05-05 | 2 | 9 | 0 | 4 | 0 | 15 |
-| 360d | 2025-11-06 | 3 | 18 | 0 | 5 | 0 | 45 |
-| last720d | 2024-11-11 | 4 | 46 | 1 | 10 | 4 | 101 |
+| 30d | 2026-10-03 | 1 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-03 | 1 | 3 | 0 | 0 | 0 | 5 |
+| 90d | 2026-08-04 | 2 | 9 | 0 | 0 | 0 | 5 |
+| last180d | 2026-05-06 | 2 | 9 | 0 | 4 | 0 | 15 |
+| 360d | 2025-11-07 | 3 | 16 | 0 | 5 | 0 | 18 |
+| last720d | 2024-11-12 | 4 | 46 | 1 | 10 | 4 | 101 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for pycairo lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:38:52Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:35:09Z._
